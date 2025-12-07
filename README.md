@@ -1,101 +1,152 @@
-# ✨ Cristina Moussoungedi  
+# ✨ Cristina M. 
 ### AI Creator • Raw Pastry Artisan • Lifelong Explorer of Nature, Textures & Human Stories
 
-Hi, I’m Cristina — a woman who believes that technology and culinary art can heal, transform,  
-and open new worlds. I was never meant to fit into just one box.
-
+Hi, I’m Cristina — a woman who believes that **technology and culinary art can heal, transform, and open new worlds.**  
+My identity doesn’t fit into just one box — and that’s exactly where my creativity comes alive.
 
 By day, I study **AI, data, LLMs and computational creativity**.  
-By night, I teach women **how to create raw sweet and savory recipes that invite joy, playfulness, 
-and a return to intuition.**
+By night, I teach women how to create **raw sweet and savory recipes** that reconnect them with joy, intuition, and simplicity.
 
 Between these two universes, I discovered my mission:  
-**to build an AI that understands textures, ingredients, and the invisible logic of flavor — 
-a digital sous-chef for the raw world.**
-
-
-## 🌱 A bit about me
-
-- I’m passionate about **permaculture, wild edible plants and nature’s intelligence**  
-- I’m a mother, a learner, a creator, and someone who rebuilds herself again and again  
-- I’m fascinated by **how food, emotions and creativity intersect**  
-- I believe that **raw pastry is not just nutrition — it’s engineering + art + inner alchemy**  
-- And now I’m translating this into **AI systems that can think like a pastry chef**
+**to build an AI capable of understanding textures, ingredients, and flavor logic — a digital sous-chef for the raw world.**
 
 ---
 
-## 🔥 My main project  
-### **AI_raw_French_Gourmet — a culinary AI system for raw dessert creation**
+# 🌿 About Me
 
-I am developing an AI pipeline able to:
+I’m passionate about **permaculture, wild edible plants and nature’s intelligence**,  
+and I’m endlessly fascinated by how **food, emotions, and creativity intertwine**.
 
-- generate raw, no-nuts dessert recipes  
-- reason about textures (creamy, elastic, crunchy, gelled…)  
+I am a mother, a learner, a creator, a woman who rebuilds herself again and again.  
+Raw pastry, for me, is not just nutrition —  
+**it’s engineering + art + inner alchemy**.
+
+And now, I’m translating all of this into AI systems  
+that understand textures, ingredients, gels, fibers, emulsions,  
+and the hidden logic that makes raw cuisine alive.
+
+---
+
+# 🍰 Main Project — AI_raw_French_Gourmet
+
+<details>
+  <summary><h3>Click to open project details</h3></summary>
+
+This is my flagship project — a specialized AI system that can:
+
+- generate **raw sweet & savory recipes**  
+- understand **texture logic** (creamy, elastic, crunchy, gelled, fluffy…)  
 - diagnose mistakes and propose corrections  
-- understand ingredient behavior: gels, fibers, lipids, hydration  
-- adapt recipes for children, beginners, and health-conscious people  
+- analyze **ingredient behavior**: hydration, gels, fibers, lipids, acidity  
+- blend culinary creativity with structured food science  
+- integrate Retrieval-Augmented Generation + QLoRA fine-tuning  
 
-This project is a bridge between:
-- **technical food science**  
-- **AI reasoning (RAG, QLoRA, embeddings)**  
-- **my lived experience as a raw pastry teacher**  
+The project combines:
 
-It is the most personal and ambitious project I’ve ever built.
+- 🟡 Dataset A → Technical ingredient logic  
+- 🟡 Dataset B → Raw recipes  
+- 🟡 Dataset C → Cleaned & standardized data  
+- 🟡 Dataset D → Prompting & system instructions  
 
----
+📘 Full architecture: `/docs/architecture.md`  
+📂 Datasets: `/data/`  
 
-## 🧠 Technologies I use (and love)
+This is the most personal and ambitious work I’ve ever done —  
+a bridge between my raw pastry world and my AI journey.
 
-- Python • Jupyter Notebook • Git • GitHub  
-- HuggingFace Transformers • QLoRA fine-tuning  
-- LangChain • Retrieval-Augmented Generation (RAG)  
-- FAISS vector search  
-- Streamlit for UI  
-- Data cleaning, structuring and feature engineering  
-- Knowledge modeling (& culinary logic!)  
+</details>
 
 ---
 
-## 💛 Why I’m doing all this
+# 🌞 Upcoming Project — Solar AI Greenhouse  
 
-Because food changed me.  
-Because learning changed me.  
-Because I want to help persons like you — stressed, tired, lost between roles — find joy again through simple, healthy, playful sweet and savory raw creations.
-And because I truly believe AI can support creativity, not replace it.
+<details>
+  <summary><h3>Click to open project details</h3></summary>
 
-My goal is to build technology that is  
-**warm, intuitive, creative and deeply human.**
+A long-term project close to my heart:  
+a **solar-powered, AI-assisted greenhouse** for regenerative agriculture.
 
----
+It will explore:
 
-## 🍰 Fun fact  
+- autonomous irrigation guided by plant & soil signals  
+- frugal AI running on micro-hardware  
+- sensor fusion inspired by permaculture  
+- prediction of plant hydration, stress, and seasonal shifts  
+- low-energy food cultivation workflows  
 
-I can talk for hours about:  
-texturing gels, agar tolerances, buckwheat emulsions, hydrating seeds, acidic balances, fruit pectins, or how to “save” a broken raw cream using nothing but your intuition and an understanding of water activity.  
+Born from my love for nature and edible wild plants,  
+and my belief that **technology can support the Earth instead of draining it.**
 
-And now… my AI can too. ✨
+And yes — I will build it. 🌱✨
 
----
-
-## 🌞 Upcoming Project — Solar AI Greenhouse  
-A long-term project close to my heart: building a **solar-powered, AI-assisted greenhouse** designed for regenerative agriculture and minimal-energy food production.
-
-This system will explore:
-
-- autonomous irrigation driven by plant and soil signals  
-- frugal AI models running on micro-hardware  
-- natural sensors inspired by permaculture principles  
-- prediction of plant stress, hydration, and seasonal patterns  
-- integration with culinary datasets for seed-to-plate intelligence  
-
-It is a project born from my love for nature, edible wild plants, and the belief that  
-**technology can support the Earth instead of draining it.**
-
-And yes — I won’t stop until I build it. 🌱✨
+</details>
 
 ---
 
-## 📫 Let’s connect  
+# 🧠 Tech Stack  
 
-If you’re curious about AI x culinary innovation, raw food, texture engineering or creative digital transformation, I’d love to talk.
+<details>
+  <summary><h3>Click to expand</h3></summary>
+
+### Languages & Core Tools  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### AI & Machine Learning  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-E74C3C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-000000?style=for-the-badge)
+
+### RAG & Retrieval  
+![FAISS](https://img.shields.io/badge/FAISS-1F77B4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1A73E8?style=for-the-badge)
+
+### Deployment  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+</details>
+
+---
+
+# 📚 What I’m Learning Now
+
+<details>
+  <summary><h3>Click to expand</h3></summary>
+
+- QLoRA fine-tuning  
+- RAG pipelines & document retrieval  
+- System instructions & prompt engineering  
+- Texture modeling & food science logic  
+- Frugal AI for small devices (future solar greenhouse)  
+
+</details>
+
+---
+
+# 📊 GitHub Stats
+
+<details>
+  <summary><h3>Click to view stats</h3></summary>
+  <div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=CrisMcode111&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=CrisMcode111&theme=tokyonight&hide_border=false)
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisMcode111&theme=tokyonight&hide_border=false&layout=compact)
+
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=CrisMcode111&theme=tokyo-night)
+
+  </div>
+</details>
+
+---
+
+# 💌 Let’s Connect
+
+If you’re curious about **AI × culinary innovation**,  
+raw food, texture engineering, edible plants, or creative digital transformation —  
+I’d love to connect.
 
