@@ -144,9 +144,13 @@ And yes — I will build it. 🌱✨
 
 ---
 
-# 💌 Let’s Connect
+## 💌 Let’s Connect
 
-If you’re curious about **AI × culinary innovation**,  
-raw food, texture engineering, edible plants, or creative digital transformation —  
+If you’re curious about **AI × food innovation × nature**,  
+or want to discuss creative technology, feel free to reach out.
 I’d love to connect.
+
+🔗 **LinkedIn:** (https://www.linkedin.com/in/cristina-moussoungedi-501621349/) 
+🔗 **Website:** (coming soon)
+
 
