@@ -1,18 +1,13 @@
-# ✨ Cristina M. 
+# Cristina M. 
 ### AI Creator • Raw Pastry Artisan • Lifelong Explorer of Nature, Textures & Human Stories
 
-Hi, I’m Cristina — a woman who believes that **technology and culinary art can heal, transform, and open new worlds.**  
-My identity doesn’t fit into just one box — and that’s exactly where my creativity comes alive.
+Hi, I’m Cristina — working at the intersection of applied AI, food systems, and creative technology.
 
-By day, I study **AI, data, LLMs and computational creativity**.  
-By night, I teach women how to create **raw sweet and savory recipes** that reconnect them with joy, intuition, and simplicity.
-
-Between these two universes, I discovered my mission:  
-**to build an AI capable of understanding textures, ingredients, and flavor logic — a digital sous-chef for the raw world.**
+I explore how AI can reason about textures, ingredients, and transformation, with a focus on raw, plant-based cuisine and sustainable systems.
 
 ---
 
-# 🌿 About Me
+# About Me
 
 I’m passionate about **permaculture, wild edible plants and nature’s intelligence**,  
 and I’m endlessly fascinated by how **food, emotions, and creativity intertwine**.
@@ -27,7 +22,7 @@ and the hidden logic that makes raw cuisine alive.
 
 ---
 
-# 🍰 Main Project — AI_raw_French_Gourmet
+# Main Project — AI_raw_French_Gourmet
 
 <details>
   <summary><h3>Click to open project details</h3></summary>
@@ -43,13 +38,13 @@ This is my flagship project — a specialized AI system that can:
 
 The project combines:
 
-- 🟡 Dataset A → Technical ingredient logic  
-- 🟡 Dataset B → Raw recipes  
-- 🟡 Dataset C → Cleaned & standardized data  
-- 🟡 Dataset D → Prompting & system instructions  
+- Dataset A → Technical ingredient logic  
+- Dataset B → Raw recipes  
+- Dataset C → Cleaned & standardized data  
+- Dataset D → Prompting & system instructions  
 
-📘 Full architecture: `/docs/architecture.md`  
-📂 Datasets: `/data/`  
+Full architecture: `/docs/architecture.md`  
+Datasets: `/data/`  
 
 This is the most personal and ambitious work I’ve ever done —  
 a bridge between my raw pastry world and my AI journey.
@@ -58,7 +53,7 @@ a bridge between my raw pastry world and my AI journey.
 
 ---
 
-# 🌞 Upcoming Project — Solar AI Greenhouse  
+# Upcoming Project — Solar AI Greenhouse  
 
 <details>
   <summary><h3>Click to open project details</h3></summary>
@@ -77,13 +72,13 @@ It will explore:
 Born from my love for nature and edible wild plants,  
 and my belief that **technology can support the Earth instead of draining it.**
 
-And yes — I will build it. 🌱✨
+And yes — I will build it.
 
 </details>
 
 ---
 
-# 🧠 Tech Stack  
+# Tech Stack  
 
 <details>
   <summary><h3>Click to expand</h3></summary>
@@ -110,7 +105,7 @@ And yes — I will build it. 🌱✨
 
 ---
 
-# 📚 What I’m Learning Now
+# What I’m Learning Now
 
 <details>
   <summary><h3>Click to expand</h3></summary>
@@ -125,7 +120,7 @@ And yes — I will build it. 🌱✨
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <details>
   <summary><h3>Click to view stats</h3></summary>
@@ -144,7 +139,7 @@ And yes — I will build it. 🌱✨
 
 ---
 
-## 💌 Let’s Connect
+## Let’s Connect
 
 If you’re curious about **AI × food innovation × nature**,  
 or want to discuss creative technology, feel free to reach out.
