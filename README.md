@@ -48,6 +48,7 @@ Datasets: `/data/`
 
 This is the most personal and ambitious work I’ve ever done —  
 a bridge between my raw pastry world and my AI journey.
+Currently developed as a private core project, with a public technical showcase available.
 
 </details>
 
